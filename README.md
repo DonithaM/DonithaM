@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently looking for **opportunities to work in an environment that supports budding devs!!**
 
+- 👩🏻‍💻 Currently learning: Next.js and headless CMS (Strapi)
+
 - 👯 I’m looking to collaborate on **web dev projects!**
 
 - 📫 How to reach me **donithamichael1@gmail.com** LinkedIn: **https://www.linkedin.com/in/donithamichael/**
