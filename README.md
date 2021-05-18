@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web dev projects!**
 
-- 📫 How to reach me **donithamichael1@gmail.com**
+- 📫 How to reach me **donithamichael1@gmail.com** **https://www.linkedin.com/in/donithamichael/**
 
 
 <h3 align="left">Languages and Tools:</h3>
