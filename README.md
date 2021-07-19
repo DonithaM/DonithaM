@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donitha Michael</h1>
-<h3 align="center">I am a Full-Stack Developer</h3>
-
-- 🎓 I’m a recent graduate from **Concordia's Full Stack Development Bootcamp**
-
-- 🌱 I’m currently looking for **opportunities to work in an environment that supports budding devs!!**
-
-- 👩🏻‍💻 Currently learning: Next.js and headless CMS (Strapi)
-
-- 👯 I’m looking to collaborate on **web dev projects!**
+<h3 align="center">Junior Developer at CrowdRiff</h3>
 
 - 📫 How to reach me **donithamichael1@gmail.com** && LinkedIn: **https://www.linkedin.com/in/donithamichael/**
 
