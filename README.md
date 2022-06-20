@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Donitha Michael</h1>
 <h3 align="center">Junior Developer at CrowdRiff</h3>
 
-- 📫 How to reach me **donithamichael1@gmail.com** && LinkedIn: **https://www.linkedin.com/in/donithamichael/**
+📫 How to reach me **donithamichael1@gmail.com** && LinkedIn: **https://www.linkedin.com/in/donithamichael/**
 
 
 <h3 align="left">Languages and Tools:</h3>
